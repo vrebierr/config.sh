@@ -1,4 +1,6 @@
 #!/bin/sh
+git config --global user.email "vrebierr@student.42.fr"
+
 curl -L http://install.ohmyz.sh | sh
 cp .zshrc ~/.zshrc
 source ~/.zshrc

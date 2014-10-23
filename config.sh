@@ -22,4 +22,8 @@ rm -rf mongodb-osx-x86_64-2.6.4.tgz mongodb-osx-x86_64-2.6.4/
 
 git clone https://github.com/miksago/jade-tmbundle.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Jade
 
+brew update
+brew install ag
+brew install heroku-toolbelt
+
 mongod --dbpath ~/mongodb/data/db

@@ -26,4 +26,6 @@ brew update
 brew install ag
 brew install heroku-toolbelt
 
+gem install sass --user-install
+
 mongod --dbpath ~/mongodb/data/db

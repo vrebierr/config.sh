@@ -80,3 +80,4 @@ export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/texb
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 export PATH=~/mongodb/bin:$PATH
 export PATH=~/.npm/bin:$PATH
+export PATH=~/.gem/ruby/2.0.0/bin:$PATH
